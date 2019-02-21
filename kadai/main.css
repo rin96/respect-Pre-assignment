@@ -1,0 +1,43 @@
+body{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+a:hover{
+
+}
+.logo{
+    background-image: url();
+    background-size: cover;
+    background-position: 50% 50%;
+}
+.company-logo{
+    text-align: left;
+}
+.header{
+    background-color: green;
+    height: 180px;
+}
+.header-list{
+    float: right;
+    font-size: 13px;
+}
+.main{
+    text-align: center;
+    background-color: aqua;
+    height: 3000px;
+}
+.footer{
+    background-color: #2f5167;
+}
+.footer-list li{
+    float: left;
+}
